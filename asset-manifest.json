@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://arivarasanvk.github.io/csb-5ugdlf/static/css/main.781c8b26.chunk.css",
+    "main.js": "https://arivarasanvk.github.io/csb-5ugdlf/static/js/main.21632682.chunk.js",
+    "main.js.map": "https://arivarasanvk.github.io/csb-5ugdlf/static/js/main.21632682.chunk.js.map",
+    "runtime-main.js": "https://arivarasanvk.github.io/csb-5ugdlf/static/js/runtime-main.e9c98c2c.js",
+    "runtime-main.js.map": "https://arivarasanvk.github.io/csb-5ugdlf/static/js/runtime-main.e9c98c2c.js.map",
+    "static/js/2.7606801f.chunk.js": "https://arivarasanvk.github.io/csb-5ugdlf/static/js/2.7606801f.chunk.js",
+    "static/js/2.7606801f.chunk.js.map": "https://arivarasanvk.github.io/csb-5ugdlf/static/js/2.7606801f.chunk.js.map",
+    "index.html": "https://arivarasanvk.github.io/csb-5ugdlf/index.html",
+    "static/css/main.781c8b26.chunk.css.map": "https://arivarasanvk.github.io/csb-5ugdlf/static/css/main.781c8b26.chunk.css.map",
+    "static/js/2.7606801f.chunk.js.LICENSE.txt": "https://arivarasanvk.github.io/csb-5ugdlf/static/js/2.7606801f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c98c2c.js",
+    "static/js/2.7606801f.chunk.js",
+    "static/css/main.781c8b26.chunk.css",
+    "static/js/main.21632682.chunk.js"
+  ]
+}
